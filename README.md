@@ -1,4 +1,5 @@
-# 12 Free Stylized 4K MatCaps Pack
+# 12 Free Stylized 4K MatCaps Pack for blender
+
 **By Bafreen Mohammed**
 
 This repository contains a collection of **12 high-quality, 4K MatCaps** for Blender.  
@@ -20,3 +21,13 @@ These MatCaps are stylized in various shades including beige, blue, green, sunse
 The full package of 12 MatCaps is available via **Mega link** in the PDF attached to this repository.
 
 **Enjoy & share freely!**
+
+Blender MatCap, MatCap Shader Pack, Stylized MatCaps, 4K MatCap Textures, Blender Sculpting, Viewport Shading, Realistic Clay Shader, Blender Texture Pack
+
+
+
+
+
+
+
+
