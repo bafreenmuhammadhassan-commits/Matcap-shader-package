@@ -1,0 +1,40 @@
+
+Thank you for downloading the 12 Stylized & Clay MatCap Pack (4K, Free) 
+# 🎨 MatCap Shading Pack by Bafreen Mohammed
+
+This pack includes a set of **stylized and realistic MatCaps** for Blender.  
+Perfect for shading previews and quick renders.
+
+## 🌟 Features
+- 12 Free MatCaps in **4K resolution**
+- Clay, Beige, Blue, Green, Sunset & Beach styles
+- Optimized for **Blender 4.0+**
+- Easy drag-and-drop usage
+
+## 📂 Included Files
+- PNG MatCap images (MatCaps/)
+- Preview thumbnails (Thumbnails/)
+- Example .blend file (optional)
+
+## 🚀 How to Use
+1. Download this repository or ZIP file.
+2. Open Blender → Preferences → Viewport → MatCap → Install.
+3. Select your MatCaps from the list.
+
+## 📜 License
+Free to use in personal and commercial projects.  
+Credit is appreciated but not required.
+
+✦ Created by **Bafreen Mohammed**
+
+These MatCaps work in Sculpt Mode and Viewport Shading.
+
+Resolution: 4096x4096 PNG (ultra crisp).
+
+Enjoy sculpting and shading with your new MatCaps
+
+if you have any question ask me in 
+
+https://www.instagram.com/bafreenmhassan/profilecard/?igsh=MXZqaWl6Y25teWhidg==
+
+https://www.linkedin.com/in/bafreen-mohammed-ba1b98328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
