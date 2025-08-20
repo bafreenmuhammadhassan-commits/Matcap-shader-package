@@ -2,7 +2,7 @@
 
 **By Bafreen Mohammed**
 
-This repository contains a collection of **12 high-quality, 4K MatCaps** for Blender.  
+This repository offers a free pack of 12 stylized 4K MatCap textures for Blender, perfect for clay, stylized, and realistic shading workflows.
 These MatCaps are stylized in various shades including beige, blue, green, sunset, and beach tones—perfect for clay, stylized, or realistic shading.
 
 <img width="512" height="512" alt="z2 preview aqua drift" src="https://github.com/user-attachments/assets/f57d5e61-621b-4e6a-b28b-1c08033e1457" />
