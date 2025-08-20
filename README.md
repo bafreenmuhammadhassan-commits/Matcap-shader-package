@@ -22,7 +22,7 @@ The full package of 12 MatCaps is available via **Mega link** in the PDF attache
 
 **Enjoy & share freely!**
 
-Blender MatCap, MatCap Shader Pack, Stylized MatCaps, 4K MatCap Textures, Blender Sculpting, Viewport Shading, Realistic Clay Shader, Blender Texture Pack
+
 
 
 
